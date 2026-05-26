@@ -1,0 +1,578 @@
+,,,,,,,,"Complexity is the sum of all ingredient
+complexities plus one. It is always assumed that the
+previous steps were done with the least complex recipes.",,"Yes = 100% Automatic
+Kind of = You have to be present
+No = You have to collect ingredients in the wild"
+,,,,,,,,,,
+Ingredient 1,,Ingredient 2,,Ingredient 3,,Result,,Min. Complexity,Less Complex Alternative Available?,Farmable?
+Carbon,#REF!,,,,,Creature Pellets,#REF!,2,No,Yes
+Leg Meat,#REF!,Mordite,#REF!,,,Synthetic Worms,#REF!,3,No,No
+Carbon Nanotubes,#REF!,Mordite,#REF!,,,Synthetic Worms,#REF!,3,No,Yes
+Proto Sausage,#REF!,Mordite,#REF!,,,Ground Meat,#REF!,3,No,No
+Diplo Chunks,#REF!,Mordite,#REF!,,,Ground Meat,#REF!,3,No,No
+Scaly Meat,#REF!,Mordite,#REF!,,,Ground Meat,#REF!,3,No,No
+Raw Steak,#REF!,Mordite,#REF!,,,Ground Meat,#REF!,3,No,No
+Meaty Chunks,#REF!,Mordite,#REF!,,,Ground Meat,#REF!,3,No,Yes
+Scented Herbs,#REF!,Mordite,#REF!,,,Pheromone Sac,#REF!,5,No,Yes
+Enzyme Fluid,#REF!,Mordite,#REF!,,,Pheromone Sac,#REF!,5,No,Yes
+Offal Sac,#REF!,Mordite,#REF!,,,Bloody Organ,#REF!,3,No,No
+Feline Liver,#REF!,Mordite,#REF!,,,Bloody Organ,#REF!,3,No,No
+Heptaploid Wheat,#REF!,Faecium,#REF!,,,Scented Herbs,#REF!,3,No,No
+Glass Grains,#REF!,Faecium,#REF!,,,Scented Herbs,#REF!,4,Yes,Yes
+Gamma Root,#REF!,Faecium,#REF!,,,Scented Herbs,#REF!,3,No,Yes
+Aloe Flesh,#REF!,Faecium,#REF!,,,Scented Herbs,#REF!,3,No,No
+Sievert Beans,#REF!,Faecium,#REF!,,,Scented Herbs,#REF!,4,Yes,Yes
+Solanium,#REF!,Faecium,#REF!,,,Scented Herbs,#REF!,3,No,Yes
+Frost Crystal,#REF!,Faecium,#REF!,,,Scented Herbs,#REF!,3,No,Yes
+Jade Peas,#REF!,Faecium,#REF!,,,Scented Herbs,#REF!,3,No,No
+Pulpy Roots,#REF!,Faecium,#REF!,,,Enzyme Fluid,#REF!,3,No,No
+Non-Toxic Mushrooms,#REF!,Faecium,#REF!,,,Enzyme Fluid,#REF!,4,Yes,Yes
+Solartillo,#REF!,Faecium,#REF!,,,Enzyme Fluid,#REF!,4,Yes,Yes
+Fungal Mould,#REF!,Faecium,#REF!,,,Enzyme Fluid,#REF!,3,No,Yes
+Cactus Nectar,#REF!,Faecium,#REF!,,,Enzyme Fluid,#REF!,4,Yes,Yes
+Frozen Tubers,#REF!,Faecium,#REF!,,,Enzyme Fluid,#REF!,3,No,No
+Impulse Beans,#REF!,Faecium,#REF!,,,Enzyme Fluid,#REF!,3,No,No
+Pilgrimberry,#REF!,Faecium,#REF!,,,Fermented Fruit,#REF!,4,Yes,Yes
+Fireberry,#REF!,Faecium,#REF!,,,Fermented Fruit,#REF!,3,No,No
+Grahberry,#REF!,Faecium,#REF!,,,Fermented Fruit,#REF!,3,No,No
+Hexaberry,#REF!,Faecium,#REF!,,,Fermented Fruit,#REF!,3,No,No
+Sweetroot,#REF!,Faecium,#REF!,,,Fermented Fruit,#REF!,3,No,No
+Marrow Bulb,#REF!,Faecium,#REF!,,,Fermented Fruit,#REF!,3,No,No
+Star Bulb,#REF!,Faecium,#REF!,,,Fermented Fruit,#REF!,3,No,Yes
+Cactus Flesh,#REF!,Faecium,#REF!,,,Fermented Fruit,#REF!,3,No,Yes
+Scented Herbs,#REF!,Faecium,#REF!,,,Sweetened Compost,#REF!,5,No,Yes
+Enzyme Fluid,#REF!,Faecium,#REF!,,,Sweetened Compost,#REF!,5,No,Yes
+Fermented Fruit,#REF!,Faecium,#REF!,,,Sweetened Compost,#REF!,5,No,Yes
+Meat Flakes,#REF!,,,,,Meaty Chunks,#REF!,3,No,Yes
+Solanium,#REF!,,,,,Solartillo,#REF!,2,No,Yes
+Frost Crystal,#REF!,,,,,Glass Grains,#REF!,2,No,Yes
+Fungal Mould,#REF!,,,,,Non-Toxic Mushrooms,#REF!,2,No,Yes
+Gamma Root,#REF!,,,,,Sievert Beans,#REF!,2,No,Yes
+Cactus Flesh,#REF!,,,,,Cactus Nectar,#REF!,2,No,Yes
+Marrow Bulb,#REF!,,,,,Marrow Flesh,#REF!,2,No,No
+Kelp Sac,#REF!,,,,,Kelp Rice,#REF!,2,No,No
+Faecium,#REF!,,,,,WIld Yeast,#REF!,2,No,Yes
+Mordite,#REF!,,,,,Meat Flakes,#REF!,2,No,Yes
+Chromatic Metal,#REF!,,,,,Silicon Egg,#REF!,2,No,Yes
+Larval Core,#REF!,,,,,Baked Eggs,#REF!,2,No,No
+Creature Egg,#REF!,,,,,Baked Eggs,#REF!,2,No,Kind of
+Tall Eggs,#REF!,,,,,Baked Eggs,#REF!,2,No,Kind of
+Giant Eggs,#REF!,,,,,Baked Eggs,#REF!,2,No,Kind of
+Heptaploid Wheat,#REF!,,,,,Refined Flour,#REF!,2,No,No
+Glass Grains,#REF!,,,,,Refined Flour,#REF!,3,Yes,Yes
+Kelp Rice,#REF!,,,,,Refined Flour,#REF!,3,Yes,No
+Grahberry,#REF!,,,,,Processed Sugar,#REF!,2,No,No
+Sweetroot,#REF!,,,,,Processed Sugar,#REF!,2,No,No
+Cactus Nectar,#REF!,,,,,Processed Sugar,#REF!,3,Yes,Yes
+Sticky Honey,#REF!,,,,,Synthetic Honey,#REF!,2,No,Kind of
+Frozen Tubers,#REF!,,,,,Steamed Vegetables,#REF!,2,No,No
+Jade Peas,#REF!,,,,,Steamed Vegetables,#REF!,2,No,No
+Hexaberry,#REF!,,,,,Steamed Vegetables,#REF!,2,No,No
+Solartillo,#REF!,,,,,Steamed Vegetables,#REF!,3,Yes,Yes
+Non-Toxic Mushrooms,#REF!,,,,,Steamed Vegetables,#REF!,3,Yes,Yes
+Sievert Beans,#REF!,,,,,Steamed Vegetables,#REF!,3,Yes,Yes
+Marrow Flesh,#REF!,,,,,Steamed Vegetables,#REF!,3,Yes,No
+Meaty Chunks,#REF!,,,,,Processed Meat,#REF!,2,No,Yes
+Meaty Wings,#REF!,,,,,Processed Meat,#REF!,2,No,No
+Fiendish Roe,#REF!,,,,,Processed Meat,#REF!,2,No,No
+Offal Sac,#REF!,,,,,Processed Meat,#REF!,2,No,No
+Proto Sausage,#REF!,,,,,Processed Meat,#REF!,2,No,No
+Diplo Chunks,#REF!,,,,,Processed Meat,#REF!,2,No,No
+Scaly Meat,#REF!,,,,,Processed Meat,#REF!,2,No,No
+Feline Liver,#REF!,,,,,Processed Meat,#REF!,2,No,No
+Strider Sausage,#REF!,,,,,Processed Meat,#REF!,2,No,No
+Raw Steak,#REF!,,,,,Processed Meat,#REF!,2,No,No
+Leg Meat,#REF!,,,,,Processed Meat,#REF!,2,No,No
+Meaty Chunks,#REF!,Carbon,#REF!,,,Smoked Meat,#REF!,3,No,Yes
+Meaty Chunks,#REF!,Condensed Carbon,#REF!,,,Smoked Meat,#REF!,3,No,Yes
+Processed Meat,#REF!,Carbon,#REF!,,,Smoked Meat,#REF!,4,Yes,Yes
+Processed Meat,#REF!,Condensed Carbon,#REF!,,,Smoked Meat,#REF!,4,Yes,Yes
+Meaty Wings,#REF!,Carbon,#REF!,,,Smoked Meat,#REF!,3,No,No
+Meaty Wings,#REF!,Condensed Carbon,#REF!,,,Smoked Meat,#REF!,3,No,No
+Fiendish Roe,#REF!,Carbon,#REF!,,,Smoked Meat,#REF!,3,No,No
+Fiendish Roe,#REF!,Condensed Carbon,#REF!,,,Smoked Meat,#REF!,3,No,No
+Offal Sac,#REF!,Carbon,#REF!,,,Smoked Meat,#REF!,3,No,No
+Offal Sac,#REF!,Condensed Carbon,#REF!,,,Smoked Meat,#REF!,3,No,No
+Proto Sausage,#REF!,Carbon,#REF!,,,Smoked Meat,#REF!,3,No,No
+Proto Sausage,#REF!,Condensed Carbon,#REF!,,,Smoked Meat,#REF!,3,No,No
+Diplo Chunks,#REF!,Carbon,#REF!,,,Smoked Meat,#REF!,3,No,No
+Diplo Chunks,#REF!,Condensed Carbon,#REF!,,,Smoked Meat,#REF!,3,No,No
+Scaly Meat,#REF!,Carbon,#REF!,,,Smoked Meat,#REF!,3,No,No
+Scaly Meat,#REF!,Condensed Carbon,#REF!,,,Smoked Meat,#REF!,3,No,No
+Feline Liver,#REF!,Carbon,#REF!,,,Smoked Meat,#REF!,3,No,No
+Feline Liver,#REF!,Condensed Carbon,#REF!,,,Smoked Meat,#REF!,3,No,No
+Strider Sausage,#REF!,Carbon,#REF!,,,Smoked Meat,#REF!,3,No,No
+Strider Sausage,#REF!,Condensed Carbon,#REF!,,,Smoked Meat,#REF!,3,No,No
+Raw Steak,#REF!,Carbon,#REF!,,,Smoked Meat,#REF!,3,No,No
+Raw Steak,#REF!,Condensed Carbon,#REF!,,,Smoked Meat,#REF!,3,No,No
+Leg Meat,#REF!,Carbon,#REF!,,,Smoked Meat,#REF!,3,No,No
+Leg Meat,#REF!,Condensed Carbon,#REF!,,,Smoked Meat,#REF!,3,No,No
+Cream,#REF!,,,,,Churned Butter,#REF!,3,No,Kind of
+Proto-Cream,#REF!,,,,,Proto-Butter,#REF!,3,No,Kind of
+Fresh Milk,#REF!,,,,,Cream,#REF!,2,No,Kind of
+Wild Milk,#REF!,,,,,Cream,#REF!,2,No,Kind of
+Warm Proto-Milk,#REF!,,,,,Proto-Cream,#REF!,2,No,Kind of
+Processed Sugar,#REF!,Salt,#REF!,,,Crunchy Caramel,#REF!,4,Yes,Yes
+Root Juice,#REF!,,,,,Crunchy Caramel,#REF!,3,No,No
+Churned Butter,#REF!,Churned Butter,#REF!,,,Clarified Oil,#REF!,7,No,Kind of
+Churned Butter,#REF!,Proto-Butter,#REF!,,,Clarified Oil,#REF!,7,No,Kind of
+Proto-Butter,#REF!,Proto-Butter,#REF!,,,Proto-Oil,#REF!,7,No,Kind of
+Refined Flour,#REF!,Churned Butter,#REF!,,,Pastry,#REF!,6,No,Kind of
+Refined Flour,#REF!,Proto-Butter,#REF!,,,Pastry,#REF!,6,No,Kind of
+Dough,#REF!,,,,,Bread,#REF!,6,No,Yes
+Creature Egg,#REF!,Cream,#REF!,Processed Sugar,#REF!,Viscous Custard,#REF!,6,No,Kind of
+Tall Eggs,#REF!,Cream,#REF!,Processed Sugar,#REF!,Viscous Custard,#REF!,6,No,Kind of
+Giant Eggs,#REF!,Cream,#REF!,Processed Sugar,#REF!,Viscous Custard,#REF!,6,No,Kind of
+Salt,#REF!,Cream,#REF!,Processed Sugar,#REF!,Salty Custard,#REF!,6,No,Kind of
+Larval Core,#REF!,Cream,#REF!,Processed Sugar,#REF!,Monstrous Custard,#REF!,6,No,No
+Silicon Egg,#REF!,Cream,#REF!,Processed Sugar,#REF!,Stellar Custard,#REF!,7,No,Kind of
+Larval Core,#REF!,Processed Sugar,#REF!,,,Delicate Meringue,#REF!,4,No,No
+Creature Egg,#REF!,Processed Sugar,#REF!,,,Delicate Meringue,#REF!,4,No,Kind of
+Tall Eggs,#REF!,Processed Sugar,#REF!,,,Delicate Meringue,#REF!,4,No,Kind of
+Giant Eggs,#REF!,Processed Sugar,#REF!,,,Delicate Meringue,#REF!,4,No,Kind of
+Clarified Oil,#REF!,Dough,#REF!,Processed Sugar,#REF!,Lumpen Doughnut,#REF!,14,No,Kind of
+Proto-Oil,#REF!,Dough,#REF!,Processed Sugar,#REF!,Proto-Beignet,#REF!,14,No,Kind of
+Impulse Beans,#REF!,,,,,Bittersweet Cocoa,#REF!,2,No,No
+Churned Butter,#REF!,Processed Sugar,#REF!,,,Sweetened Butter,#REF!,6,No,Kind of
+Proto-Butter,#REF!,Processed Sugar,#REF!,,,Sweetened Proto-Butter,#REF!,6,No,Kind of
+Churned Butter,#REF!,Synthetic Honey,#REF!,,,Honey Butter,#REF!,6,No,Kind of
+Proto-Butter,#REF!,Synthetic Honey,#REF!,,,Honied Proto-Butter,#REF!,6,No,Kind of
+Proto-Butter,#REF!,Sticky Honey,#REF!,,,Gooey Proto-Butter,#REF!,5,No,Kind of
+Churned Butter,#REF!,Sticky Honey,#REF!,,,Gooey Butter,#REF!,5,No,Kind of
+Cream,#REF!,WIld Yeast,#REF!,,,Tangy Cheese,#REF!,5,No,Kind of
+Proto-Cream,#REF!,WIld Yeast,#REF!,,,Proto-Cheese,#REF!,5,No,Kind of
+Refined Flour,#REF!,WIld Yeast,#REF!,,,Dough,#REF!,5,No,Yes
+Hexaberry,#REF!,Processed Sugar,#REF!,,,Anomalous Jam,#REF!,4,No,No
+Fireberry,#REF!,Processed Sugar,#REF!,,,Ever-burning Jam,#REF!,4,No,No
+Grahberry,#REF!,Processed Sugar,#REF!,,,Grahj'am,#REF!,4,No,No
+Cactus Nectar,#REF!,Processed Sugar,#REF!,,,Cactus Jelly,#REF!,5,No,Yes
+Leopard-Fruit,#REF!,Processed Sugar,#REF!,,,Furball Jelly,#REF!,4,No,Kind of
+Crab `Apple`,#REF!,Processed Sugar,#REF!,,,Wriggling Jam,#REF!,4,No,Kind of
+Lumpen Doughnut,#REF!,Viscous Custard,#REF!,,,Custard Doughnut,#REF!,21,No,Kind of
+Lumpen Doughnut,#REF!,Salty Custard,#REF!,,,Salty Doughnut,#REF!,21,No,Kind of
+Lumpen Doughnut,#REF!,Monstrous Custard,#REF!,,,Monstrous Doughnut,#REF!,21,No,No
+Lumpen Doughnut,#REF!,Stellar Custard,#REF!,,,The Stellarator,#REF!,22,No,Kind of
+Lumpen Doughnut,#REF!,Synthetic Honey,#REF!,,,Honey Doughnut,#REF!,17,No,Kind of
+Lumpen Doughnut,#REF!,Sweetened Butter,#REF!,,,Honeybutter Doughnut,#REF!,21,No,Kind of
+Lumpen Doughnut,#REF!,Sweetened Proto-Butter,#REF!,,,Honeybutter Doughnut,#REF!,21,No,Kind of
+Lumpen Doughnut,#REF!,Honey Butter,#REF!,,,Honeybutter Doughnut,#REF!,21,No,Kind of
+Lumpen Doughnut,#REF!,Honied Proto-Butter,#REF!,,,Honeybutter Doughnut,#REF!,21,No,Kind of
+Lumpen Doughnut,#REF!,Gooey Proto-Butter,#REF!,,,Gooey Proto-Doughnut,#REF!,20,No,Kind of
+Lumpen Doughnut,#REF!,Crunchy Caramel,#REF!,,,Caramel Doughnut,#REF!,18,No,Kind of
+Lumpen Doughnut,#REF!,Bittersweet Cocoa,#REF!,,,Cocoa Doughnut,#REF!,17,No,No
+Lumpen Doughnut,#REF!,Meaty Chunks,#REF!,,,Proteinous Doughnut,#REF!,16,No,Kind of
+Lumpen Doughnut,#REF!,Cactus Jelly,#REF!,,,Jam Doughnut,#REF!,20,Yes,Kind of
+Lumpen Doughnut,#REF!,Furball Jelly,#REF!,,,Jam Doughnut,#REF!,19,No,Kind of
+Lumpen Doughnut,#REF!,Grahj'am,#REF!,,,Jam Doughnut,#REF!,19,No,No
+Lumpen Doughnut,#REF!,Ever-burning Jam,#REF!,,,Jam Doughnut,#REF!,19,No,No
+Lumpen Doughnut,#REF!,Wriggling Jam,#REF!,,,Wriggling Doughnut,#REF!,19,No,Kind of
+Lumpen Doughnut,#REF!,Anomalous Jam,#REF!,,,Anomalous Doughnut,#REF!,19,No,No
+Pastry,#REF!,,,,,Pie Case,#REF!,7,No,Kind of
+Pie Case,#REF!,Meaty Chunks,#REF!,,,Mystery Meat Pie,#REF!,9,No,Kind of
+Pie Case,#REF!,Processed Meat,#REF!,,,Mystery Meat Pie,#REF!,10,Yes,Kind of
+Pie Case,#REF!,Meaty Wings,#REF!,,,Mystery Meat Pie,#REF!,9,No,No
+Pie Case,#REF!,Diplo Chunks,#REF!,,,Mystery Meat Pie,#REF!,9,No,No
+Pie Case,#REF!,Scaly Meat,#REF!,,,Mystery Meat Pie,#REF!,9,No,No
+Pie Case,#REF!,Strider Sausage,#REF!,,,Mystery Meat Pie,#REF!,9,No,No
+Pie Case,#REF!,Raw Steak,#REF!,,,Mystery Meat Pie,#REF!,9,No,No
+Pie Case,#REF!,Smoked Meat,#REF!,,,Smokey Meat Pie,#REF!,10,No,Kind of
+Pie Case,#REF!,Steamed Vegetables,#REF!,,,High-Fibre Pie,#REF!,10,Yes,Kind of
+Pie Case,#REF!,Jade Peas,#REF!,,,High-Fibre Pie,#REF!,9,No,No
+Pie Case,#REF!,Salty Fingers,#REF!,,,Fish Pie,#REF!,9,No,No
+Pie Case,#REF!,Fiendish Roe,#REF!,,,Haunted Pie,#REF!,9,No,No
+Pie Case,#REF!,Offal Sac,#REF!,,,Chewy Organ Pie,#REF!,9,No,No
+Pie Case,#REF!,Feline Liver,#REF!,,,Chewy Organ Pie,#REF!,9,No,No
+Pie Case,#REF!,Proto Sausage,#REF!,,,Proto-Sausage Pie,#REF!,9,No,No
+Pie Case,#REF!,Leg Meat,#REF!,,,`Legs-in-Pastry`,#REF!,9,No,No
+Pie Case,#REF!,Pilgrimberry,#REF!,,,Fruity Pudding,#REF!,10,Yes,Kind of
+Pie Case,#REF!,Grahberry,#REF!,,,Fruity Pudding,#REF!,9,No,No
+Pie Case,#REF!,Fireberry,#REF!,,,Glowing Pie,#REF!,9,No,No
+Pie Case,#REF!,Solartillo,#REF!,,,Glowing Pie,#REF!,10,Yes,Kind of
+Pie Case,#REF!,Sievert Beans,#REF!,,,Glowing Pie,#REF!,10,Yes,Kind of
+Pie Case,#REF!,Ever-burning Jam,#REF!,,,Glowing Pie,#REF!,12,Yes,No
+Pie Case,#REF!,Non-Toxic Mushrooms,#REF!,,,Fungal Tart,#REF!,10,No,Kind of
+Pie Case,#REF!,Grahj'am,#REF!,,,Jam Tart,#REF!,12,No,No
+Pie Case,#REF!,Cactus Jelly,#REF!,,,Jam Tart,#REF!,13,Yes,Kind of
+Pie Case,#REF!,Hexaberry,#REF!,,,Anomalous Tart,#REF!,9,No,No
+Pie Case,#REF!,Anomalous Jam,#REF!,,,Anomalous Tart,#REF!,12,Yes,No
+Pie Case,#REF!,Aloe Flesh,#REF!,,,Spikey Tart,#REF!,9,No,No
+Pie Case,#REF!,Cactus Nectar,#REF!,,,Spikey Tart,#REF!,10,Yes,Kind of
+Pie Case,#REF!,Sticky Honey,#REF!,,,Honey Tart,#REF!,9,No,Kind of
+Pie Case,#REF!,Synthetic Honey,#REF!,,,Honey Tart,#REF!,10,Yes,Kind of
+Pie Case,#REF!,Sweetroot,#REF!,,,Mushed Root Pie,#REF!,9,No,No
+Pie Case,#REF!,Regis Grease,#REF!,,,Solidified Grease Pie,#REF!,9,No,Kind of
+Pie Case,#REF!,Clarified Oil,#REF!,,,Solidified Grease Pie,#REF!,14,Yes,Kind of
+Pie Case,#REF!,Proto-Oil,#REF!,,,Solidified Grease Pie,#REF!,14,Yes,Kind of
+Pie Case,#REF!,Leopard-Fruit,#REF!,,,Jellied Fur Tart,#REF!,9,No,Kind of
+Pie Case,#REF!,Furball Jelly,#REF!,,,Jellied Fur Tart,#REF!,12,Yes,Kind of
+Pie Case,#REF!,Crab `Apple`,#REF!,,,Wriggling Tart,#REF!,9,No,Kind of
+Pie Case,#REF!,Wriggling Jam,#REF!,,,Wriggling Tart,#REF!,12,Yes,Kind of
+Pie Case,#REF!,Bittersweet Cocoa,#REF!,,,Cocoa Tart,#REF!,10,No,No
+Pie Case,#REF!,Crunchy Caramel,#REF!,,,Caramel Tart,#REF!,11,No,Kind of
+Pie Case,#REF!,Cream,#REF!,,,Creamy Treat,#REF!,10,No,Kind of
+Pie Case,#REF!,Viscous Custard,#REF!,,,Custard Tart,#REF!,14,No,Kind of
+Pie Case,#REF!,Salty Custard,#REF!,,,Custard Tart,#REF!,14,No,Kind of
+Pie Case,#REF!,Monstrous Custard,#REF!,,,The Spawning Tart,#REF!,14,No,No
+Pie Case,#REF!,Stellar Custard,#REF!,,,Stellar Custard Tart,#REF!,15,No,Kind of
+Pie Case,#REF!,Tangy Cheese,#REF!,,,Baked Cheese Tart,#REF!,13,No,Kind of
+Pie Case,#REF!,Proto-Cheese,#REF!,,,Baked Cheese Tart,#REF!,13,No,Kind of
+Pie Case,#REF!,Tangy Cheese,#REF!,Solartillo,#REF!,Cheesy Vegetable Pie,#REF!,15,Yes,Kind of
+Pie Case,#REF!,Tangy Cheese,#REF!,Jade Peas,#REF!,Cheesy Vegetable Pie,#REF!,14,No,No
+Pie Case,#REF!,Tangy Cheese,#REF!,Sievert Beans,#REF!,Cheesy Vegetable Pie,#REF!,15,Yes,Kind of
+Pie Case,#REF!,Tangy Cheese,#REF!,Pulpy Roots,#REF!,Cheesy Vegetable Pie,#REF!,14,No,No
+Pie Case,#REF!,Tangy Cheese,#REF!,Aloe Flesh,#REF!,Cheesy Vegetable Pie,#REF!,14,No,No
+Pie Case,#REF!,Proto-Cheese,#REF!,Solartillo,#REF!,Cheesy Vegetable Pie,#REF!,15,Yes,Kind of
+Pie Case,#REF!,Proto-Cheese,#REF!,Jade Peas,#REF!,Cheesy Vegetable Pie,#REF!,14,No,No
+Pie Case,#REF!,Proto-Cheese,#REF!,Sievert Beans,#REF!,Cheesy Vegetable Pie,#REF!,15,Yes,Kind of
+Pie Case,#REF!,Proto-Cheese,#REF!,Pulpy Roots,#REF!,Cheesy Vegetable Pie,#REF!,14,No,No
+Pie Case,#REF!,Proto-Cheese,#REF!,Aloe Flesh,#REF!,Cheesy Vegetable Pie,#REF!,14,No,No
+Processed Meat,#REF!,Processed Meat,#REF!,,,Mystery Meat Stew,#REF!,5,Yes,Yes
+Smoked Meat,#REF!,Processed Meat,#REF!,,,Mystery Meat Stew,#REF!,5,Yes,Yes
+Smoked Meat,#REF!,Smoked Meat,#REF!,,,Mystery Meat Stew,#REF!,5,Yes,Yes
+Meaty Chunks,#REF!,Meaty Chunks,#REF!,,,Mystery Meat Stew,#REF!,3,No,Yes
+Meaty Chunks,#REF!,Processed Meat,#REF!,,,Mystery Meat Stew,#REF!,4,Yes,Yes
+Meaty Chunks,#REF!,Smoked Meat,#REF!,,,Mystery Meat Stew,#REF!,4,Yes,Yes
+Meaty Wings,#REF!,Meaty Wings,#REF!,,,Mystery Meat Stew,#REF!,3,No,No
+Meaty Wings,#REF!,Processed Meat,#REF!,,,Mystery Meat Stew,#REF!,4,Yes,No
+Meaty Wings,#REF!,Meaty Chunks,#REF!,,,Mystery Meat Stew,#REF!,3,No,No
+Meaty Wings,#REF!,Smoked Meat,#REF!,,,Mystery Meat Stew,#REF!,4,Yes,No
+Meaty Wings,#REF!,Proto Sausage,#REF!,,,Mystery Meat Stew,#REF!,3,No,No
+Meaty Wings,#REF!,Diplo Chunks,#REF!,,,Mystery Meat Stew,#REF!,3,No,No
+Meaty Wings,#REF!,Scaly Meat,#REF!,,,Mystery Meat Stew,#REF!,3,No,No
+Meaty Wings,#REF!,Strider Sausage,#REF!,,,Mystery Meat Stew,#REF!,3,No,No
+Meaty Wings,#REF!,Raw Steak,#REF!,,,Mystery Meat Stew,#REF!,3,No,No
+Proto Sausage,#REF!,Processed Meat,#REF!,,,Mystery Meat Stew,#REF!,4,Yes,No
+Proto Sausage,#REF!,Meaty Chunks,#REF!,,,Mystery Meat Stew,#REF!,3,No,No
+Proto Sausage,#REF!,Smoked Meat,#REF!,,,Mystery Meat Stew,#REF!,4,Yes,No
+Proto Sausage,#REF!,Diplo Chunks,#REF!,,,Mystery Meat Stew,#REF!,3,No,No
+Proto Sausage,#REF!,Scaly Meat,#REF!,,,Mystery Meat Stew,#REF!,3,No,No
+Proto Sausage,#REF!,Strider Sausage,#REF!,,,Mystery Meat Stew,#REF!,3,No,No
+Proto Sausage,#REF!,Raw Steak,#REF!,,,Mystery Meat Stew,#REF!,3,No,No
+Diplo Chunks,#REF!,Diplo Chunks,#REF!,,,Mystery Meat Stew,#REF!,3,No,No
+Diplo Chunks,#REF!,Processed Meat,#REF!,,,Mystery Meat Stew,#REF!,4,Yes,No
+Diplo Chunks,#REF!,Meaty Chunks,#REF!,,,Mystery Meat Stew,#REF!,3,No,No
+Diplo Chunks,#REF!,Smoked Meat,#REF!,,,Mystery Meat Stew,#REF!,4,Yes,No
+Diplo Chunks,#REF!,Scaly Meat,#REF!,,,Mystery Meat Stew,#REF!,3,No,No
+Diplo Chunks,#REF!,Strider Sausage,#REF!,,,Mystery Meat Stew,#REF!,3,No,No
+Diplo Chunks,#REF!,Raw Steak,#REF!,,,Mystery Meat Stew,#REF!,3,No,No
+Scaly Meat,#REF!,Scaly Meat,#REF!,,,Mystery Meat Stew,#REF!,3,No,No
+Scaly Meat,#REF!,Processed Meat,#REF!,,,Mystery Meat Stew,#REF!,4,Yes,No
+Scaly Meat,#REF!,Meaty Chunks,#REF!,,,Mystery Meat Stew,#REF!,3,No,No
+Scaly Meat,#REF!,Smoked Meat,#REF!,,,Mystery Meat Stew,#REF!,4,Yes,No
+Scaly Meat,#REF!,Strider Sausage,#REF!,,,Mystery Meat Stew,#REF!,3,No,No
+Scaly Meat,#REF!,Raw Steak,#REF!,,,Mystery Meat Stew,#REF!,3,No,No
+Strider Sausage,#REF!,Strider Sausage,#REF!,,,Mystery Meat Stew,#REF!,3,No,No
+Strider Sausage,#REF!,Processed Meat,#REF!,,,Mystery Meat Stew,#REF!,4,Yes,No
+Strider Sausage,#REF!,Meaty Chunks,#REF!,,,Mystery Meat Stew,#REF!,3,No,No
+Strider Sausage,#REF!,Smoked Meat,#REF!,,,Mystery Meat Stew,#REF!,4,Yes,No
+Strider Sausage,#REF!,Raw Steak,#REF!,,,Mystery Meat Stew,#REF!,3,No,No
+Raw Steak,#REF!,Raw Steak,#REF!,,,Mystery Meat Stew,#REF!,3,No,No
+Raw Steak,#REF!,Processed Meat,#REF!,,,Mystery Meat Stew,#REF!,4,Yes,No
+Raw Steak,#REF!,Meaty Chunks,#REF!,,,Mystery Meat Stew,#REF!,3,No,No
+Raw Steak,#REF!,Smoked Meat,#REF!,,,Mystery Meat Stew,#REF!,4,Yes,No
+Steamed Vegetables,#REF!,Impulse Beans,#REF!,,,Fibrous Stew,#REF!,4,Yes,No
+Steamed Vegetables,#REF!,Solartillo,#REF!,,,Fibrous Stew,#REF!,5,Yes,Yes
+Steamed Vegetables,#REF!,Jade Peas,#REF!,,,Fibrous Stew,#REF!,4,Yes,No
+Steamed Vegetables,#REF!,Non-Toxic Mushrooms,#REF!,,,Fibrous Stew,#REF!,5,Yes,Yes
+Steamed Vegetables,#REF!,Sievert Beans,#REF!,,,Fibrous Stew,#REF!,5,Yes,Yes
+Steamed Vegetables,#REF!,Sweetroot,#REF!,,,Fibrous Stew,#REF!,4,Yes,No
+Steamed Vegetables,#REF!,Pulpy Roots,#REF!,,,Fibrous Stew,#REF!,4,Yes,No
+Impulse Beans,#REF!,Impulse Beans,#REF!,,,Fibrous Stew,#REF!,3,No,No
+Impulse Beans,#REF!,Solartillo,#REF!,,,Fibrous Stew,#REF!,4,Yes,No
+Impulse Beans,#REF!,Jade Peas,#REF!,,,Fibrous Stew,#REF!,3,No,No
+Impulse Beans,#REF!,Non-Toxic Mushrooms,#REF!,,,Fibrous Stew,#REF!,4,Yes,No
+Impulse Beans,#REF!,Sievert Beans,#REF!,,,Fibrous Stew,#REF!,4,Yes,No
+Impulse Beans,#REF!,Sweetroot,#REF!,,,Fibrous Stew,#REF!,3,No,No
+Impulse Beans,#REF!,Pulpy Roots,#REF!,,,Fibrous Stew,#REF!,3,No,No
+Solartillo,#REF!,Solartillo,#REF!,,,Fibrous Stew,#REF!,5,Yes,Yes
+Solartillo,#REF!,Jade Peas,#REF!,,,Fibrous Stew,#REF!,4,Yes,No
+Solartillo,#REF!,Non-Toxic Mushrooms,#REF!,,,Fibrous Stew,#REF!,5,Yes,Yes
+Solartillo,#REF!,Sievert Beans,#REF!,,,Fibrous Stew,#REF!,5,Yes,Yes
+Solartillo,#REF!,Sweetroot,#REF!,,,Fibrous Stew,#REF!,4,Yes,No
+Solartillo,#REF!,Pulpy Roots,#REF!,,,Fibrous Stew,#REF!,4,Yes,No
+Jade Peas,#REF!,Jade Peas,#REF!,,,Fibrous Stew,#REF!,3,No,No
+Jade Peas,#REF!,Non-Toxic Mushrooms,#REF!,,,Fibrous Stew,#REF!,4,Yes,No
+Jade Peas,#REF!,Sievert Beans,#REF!,,,Fibrous Stew,#REF!,4,Yes,No
+Jade Peas,#REF!,Sweetroot,#REF!,,,Fibrous Stew,#REF!,3,No,No
+Jade Peas,#REF!,Pulpy Roots,#REF!,,,Fibrous Stew,#REF!,3,No,No
+Non-Toxic Mushrooms,#REF!,Non-Toxic Mushrooms,#REF!,,,Fibrous Stew,#REF!,5,Yes,Yes
+Non-Toxic Mushrooms,#REF!,Sievert Beans,#REF!,,,Fibrous Stew,#REF!,5,Yes,Yes
+Non-Toxic Mushrooms,#REF!,Sweetroot,#REF!,,,Fibrous Stew,#REF!,4,Yes,No
+Non-Toxic Mushrooms,#REF!,Pulpy Roots,#REF!,,,Fibrous Stew,#REF!,4,Yes,No
+Sievert Beans,#REF!,Sievert Beans,#REF!,,,Fibrous Stew,#REF!,5,Yes,Yes
+Sievert Beans,#REF!,Sweetroot,#REF!,,,Fibrous Stew,#REF!,4,Yes,No
+Sievert Beans,#REF!,Pulpy Roots,#REF!,,,Fibrous Stew,#REF!,4,Yes,No
+Sweetroot,#REF!,Sweetroot,#REF!,,,Fibrous Stew,#REF!,3,No,No
+Sweetroot,#REF!,Pulpy Roots,#REF!,,,Fibrous Stew,#REF!,3,No,No
+Pulpy Roots,#REF!,Pulpy Roots,#REF!,,,Fibrous Stew,#REF!,3,No,No
+Offal Sac,#REF!,Offal Sac,#REF!,,,Stewed Organs,#REF!,3,No,No
+Feline Liver,#REF!,Feline Liver,#REF!,,,Stewed Organs,#REF!,3,No,No
+Offal Sac,#REF!,Feline Liver,#REF!,,,Stewed Organs,#REF!,3,No,No
+Creature Egg,#REF!,Tangy Cheese,#REF!,,,Omelette,#REF!,7,No,Kind of
+Tall Eggs,#REF!,Tangy Cheese,#REF!,,,Omelette,#REF!,7,No,Kind of
+Giant Eggs,#REF!,Tangy Cheese,#REF!,,,Omelette,#REF!,7,No,Kind of
+Larval Core,#REF!,Tangy Cheese,#REF!,,,Whispering Omelette,#REF!,7,No,No
+Creature Egg,#REF!,Proto-Cheese,#REF!,,,Proto-Omelette,#REF!,7,No,Kind of
+Tall Eggs,#REF!,Proto-Cheese,#REF!,,,Proto-Omelette,#REF!,7,No,Kind of
+Giant Eggs,#REF!,Proto-Cheese,#REF!,,,Proto-Omelette,#REF!,7,No,Kind of
+Larval Core,#REF!,Proto-Cheese,#REF!,,,Parasitic Omelette,#REF!,7,No,No
+Pulpy Roots,#REF!,,,,,Root Juice,#REF!,2,No,No
+Pilgrimberry,#REF!,,,,,Pilgrim's Tonic,#REF!,3,No,Yes
+Fireberry,#REF!,,,,,Fire Water,#REF!,2,No,No
+Aloe Flesh,#REF!,,,,,Refreshing Drink,#REF!,2,No,No
+Root Juice,#REF!,Steamed Vegetables,#REF!,,,Flavoursome Sauce,#REF!,5,No,No
+Steamed Vegetables,#REF!,Steamed Vegetables,#REF!,,,Flavoursome Sauce,#REF!,5,No,Yes
+Fire Water,#REF!,Fire Water,#REF!,,,Scorching Sauce,#REF!,5,Yes,No
+Fire Water,#REF!,Fireberry,#REF!,,,Scorching Sauce,#REF!,4,No,No
+Fire Water,#REF!,Solartillo,#REF!,,,Scorching Sauce,#REF!,5,Yes,No
+Fire Water,#REF!,Sievert Beans,#REF!,,,Scorching Sauce,#REF!,5,Yes,No
+Fire Water,#REF!,Grahberry,#REF!,,,Scorching Sauce,#REF!,4,No,No
+Root Juice,#REF!,Fireberry,#REF!,,,Scorching Sauce,#REF!,4,No,No
+Root Juice,#REF!,Solartillo,#REF!,,,Scorching Sauce,#REF!,5,Yes,No
+Root Juice,#REF!,Sievert Beans,#REF!,,,Scorching Sauce,#REF!,5,Yes,No
+Root Juice,#REF!,Grahberry,#REF!,,,Scorching Sauce,#REF!,4,No,No
+Cream,#REF!,Cream,#REF!,,,Creamy Sauce,#REF!,5,No,Kind of
+Cream,#REF!,Proto-Cream,#REF!,,,Creamy Sauce,#REF!,5,No,Kind of
+Proto-Cream,#REF!,Proto-Cream,#REF!,,,Creamy Sauce,#REF!,5,No,Kind of
+Cream,#REF!,Tangy Cheese,#REF!,,,Partially-Liquid Cheese,#REF!,8,No,Kind of
+Cream,#REF!,Proto-Cheese,#REF!,,,Partially-Liquid Cheese,#REF!,8,No,Kind of
+Proto-Cream,#REF!,Tangy Cheese,#REF!,,,Partially-Liquid Cheese,#REF!,8,No,Kind of
+Proto-Cream,#REF!,Proto-Cheese,#REF!,,,Partially-Liquid Cheese,#REF!,8,No,Kind of
+Stewed Organs,#REF!,Partially-Liquid Cheese,#REF!,,,Tangy Organ Surprise,#REF!,12,No,No
+Fibrous Stew,#REF!,Partially-Liquid Cheese,#REF!,,,Tangy Vegetable Stew,#REF!,12,No,Kind of
+Mystery Meat Stew,#REF!,Partially-Liquid Cheese,#REF!,,,Cheese-and-Flesh Stew,#REF!,12,No,Kind of
+Stewed Organs,#REF!,Creamy Sauce,#REF!,,,Creamed Organ Soup,#REF!,9,No,No
+Fibrous Stew,#REF!,Creamy Sauce,#REF!,,,Cream of Vegetable Soup,#REF!,9,No,Kind of
+Mystery Meat Stew,#REF!,Creamy Sauce,#REF!,,,Thick Meat Stew,#REF!,9,No,Kind of
+Stewed Organs,#REF!,Scorching Sauce,#REF!,,,Devilled Organs,#REF!,8,No,No
+Fibrous Stew,#REF!,Scorching Sauce,#REF!,,,Fiery Vegetable Stew,#REF!,8,No,No
+Mystery Meat Stew,#REF!,Scorching Sauce,#REF!,,,Spicy Fleshballs,#REF!,8,No,No
+Stewed Organs,#REF!,Flavoursome Sauce,#REF!,,,Flavoursome Organs,#REF!,9,No,No
+Fibrous Stew,#REF!,Flavoursome Sauce,#REF!,,,Delicious Vegetable Stew,#REF!,9,No,Yes
+Mystery Meat Stew,#REF!,Flavoursome Sauce,#REF!,,,Herb-Encrusted Flesh,#REF!,9,No,Yes
+Sweetened Butter,#REF!,Refined Flour,#REF!,Creature Egg,#REF!,Cake Batter,#REF!,10,No,Kind of
+Honey Butter,#REF!,Refined Flour,#REF!,Creature Egg,#REF!,Cake Batter,#REF!,10,No,Kind of
+Sweetened Butter,#REF!,Refined Flour,#REF!,Tall Eggs,#REF!,Cake Batter,#REF!,10,No,Kind of
+Honey Butter,#REF!,Refined Flour,#REF!,Tall Eggs,#REF!,Cake Batter,#REF!,10,No,Kind of
+Sweetened Butter,#REF!,Refined Flour,#REF!,Giant Eggs,#REF!,Cake Batter,#REF!,10,No,Kind of
+Honey Butter,#REF!,Refined Flour,#REF!,Giant Eggs,#REF!,Cake Batter,#REF!,10,No,Kind of
+Sweetened Proto-Butter,#REF!,Refined Flour,#REF!,Creature Egg,#REF!,Proto-Batter,#REF!,10,No,Kind of
+Honied Proto-Butter,#REF!,Refined Flour,#REF!,Creature Egg,#REF!,Proto-Batter,#REF!,10,No,Kind of
+Sweetened Proto-Butter,#REF!,Refined Flour,#REF!,Tall Eggs,#REF!,Proto-Batter,#REF!,10,No,Kind of
+Honied Proto-Butter,#REF!,Refined Flour,#REF!,Tall Eggs,#REF!,Proto-Batter,#REF!,10,No,Kind of
+Sweetened Proto-Butter,#REF!,Refined Flour,#REF!,Giant Eggs,#REF!,Proto-Batter,#REF!,10,No,Kind of
+Honied Proto-Butter,#REF!,Refined Flour,#REF!,Giant Eggs,#REF!,Proto-Batter,#REF!,10,No,Kind of
+Gooey Proto-Butter,#REF!,Refined Flour,#REF!,Creature Egg,#REF!,"Thick, Sweet Batter",#REF!,9,No,Kind of
+Gooey Butter,#REF!,Refined Flour,#REF!,Creature Egg,#REF!,"Thick, Sweet Batter",#REF!,9,No,Kind of
+Gooey Proto-Butter,#REF!,Refined Flour,#REF!,Tall Eggs,#REF!,"Thick, Sweet Batter",#REF!,9,No,Kind of
+Gooey Butter,#REF!,Refined Flour,#REF!,Tall Eggs,#REF!,"Thick, Sweet Batter",#REF!,9,No,Kind of
+Gooey Proto-Butter,#REF!,Refined Flour,#REF!,Giant Eggs,#REF!,"Thick, Sweet Batter",#REF!,9,No,Kind of
+Gooey Butter,#REF!,Refined Flour,#REF!,Giant Eggs,#REF!,"Thick, Sweet Batter",#REF!,9,No,Kind of
+Sweetened Butter,#REF!,Refined Flour,#REF!,Larval Core,#REF!,Wailing Batter,#REF!,10,Yes,No
+Sweetened Proto-Butter,#REF!,Refined Flour,#REF!,Larval Core,#REF!,Wailing Batter,#REF!,10,Yes,No
+Honey Butter,#REF!,Refined Flour,#REF!,Larval Core,#REF!,Wailing Batter,#REF!,10,Yes,No
+Honied Proto-Butter,#REF!,Refined Flour,#REF!,Larval Core,#REF!,Wailing Batter,#REF!,10,Yes,No
+Gooey Butter,#REF!,Refined Flour,#REF!,Larval Core,#REF!,Wailing Batter,#REF!,9,No,No
+Gooey Proto-Butter,#REF!,Refined Flour,#REF!,Larval Core,#REF!,Wailing Batter,#REF!,9,No,No
+Delicate Meringue,#REF!,Refined Flour,#REF!,Creature Egg,#REF!,Extra-Fluffy Batter,#REF!,8,No,Kind of
+Delicate Meringue,#REF!,Refined Flour,#REF!,Tall Eggs,#REF!,Extra-Fluffy Batter,#REF!,8,No,Kind of
+Delicate Meringue,#REF!,Refined Flour,#REF!,Giant Eggs,#REF!,Extra-Fluffy Batter,#REF!,8,No,Kind of
+Delicate Meringue,#REF!,Refined Flour,#REF!,Larval Core,#REF!,"Writhing, Roling Batter",#REF!,8,No,No
+Cake Batter,#REF!,Synthetic Honey,#REF!,,,Glittering Honey Cake,#REF!,13,No,Kind of
+Cake Batter,#REF!,Cream,#REF!,,,Cream Buns,#REF!,13,No,Kind of
+Cake Batter,#REF!,Sticky Honey,#REF!,,,Questionably Sweet Cake,#REF!,12,Yes,Kind of
+Cake Batter,#REF!,Gooey Butter,#REF!,,,Questionably Sweet Cake,#REF!,16,Yes,Kind of
+"Thick, Sweet Batter",#REF!,Sticky Honey,#REF!,,,Questionably Sweet Cake,#REF!,11,No,Kind of
+"Thick, Sweet Batter",#REF!,Gooey Butter,#REF!,,,Questionably Sweet Cake,#REF!,15,Yes,Kind of
+Cake Batter,#REF!,Bittersweet Cocoa,#REF!,,,Chocolate Cake,#REF!,13,No,No
+Cake Batter,#REF!,Crunchy Caramel,#REF!,,,Caramel-Encrusted Cake,#REF!,14,No,Kind of
+Cake Batter,#REF!,Crab `Apple`,#REF!,,,Spiced `Apple` Cake,#REF!,12,No,Kind of
+Cake Batter,#REF!,Wriggling Jam,#REF!,Cream,#REF!,Spiced `Apple` Cake,#REF!,17,Yes,Kind of
+Cake Batter,#REF!,Cactus Nectar,#REF!,,,Esophageal Surprise,#REF!,13,No,Kind of
+Cake Batter,#REF!,Cactus Jelly,#REF!,Cream,#REF!,Esophageal Surprise,#REF!,18,Yes,Kind of
+Cake Batter,#REF!,Grahj'am,#REF!,Cream,#REF!,Traditional Cake,#REF!,17,No,No
+Cake Batter,#REF!,Furball Jelly,#REF!,Cream,#REF!,Traditional Cake,#REF!,17,No,Kind of
+Cake Batter,#REF!,Ever-burning Jam,#REF!,Cream,#REF!,Ever-Boiling Cake,#REF!,17,No,No
+Cake Batter,#REF!,Anomalous Jam,#REF!,Cream,#REF!,Perpetual Cake,#REF!,17,No,No
+Cake Batter,#REF!,Viscous Custard,#REF!,,,Custard Fancy,#REF!,17,No,Kind of
+Cake Batter,#REF!,Salty Custard,#REF!,,,Briney Delight,#REF!,17,No,Kind of
+Cake Batter,#REF!,Monstrous Custard,#REF!,,,"Horrifying, Gooey Delight",#REF!,17,Yes,No
+Proto-Batter,#REF!,Monstrous Custard,#REF!,,,"Horrifying, Gooey Delight",#REF!,17,Yes,No
+Wailing Batter,#REF!,Viscous Custard,#REF!,,,"Horrifying, Gooey Delight",#REF!,16,No,No
+Wailing Batter,#REF!,Salty Custard,#REF!,,,"Horrifying, Gooey Delight",#REF!,16,No,No
+Wailing Batter,#REF!,Monstrous Custard,#REF!,,,"Horrifying, Gooey Delight",#REF!,16,No,No
+Wailing Batter,#REF!,Stellar Custard,#REF!,,,"Horrifying, Gooey Delight",#REF!,17,Yes,No
+Cake Batter,#REF!,Stellar Custard,#REF!,,,Interstellar Fancy,#REF!,18,No,Kind of
+Hypnotic Eye,#REF!,,,,,Horrifying Mush,#REF!,2,No,No
+Hypnotic Eye,#REF!,Hypnotic Eye,#REF!,,,Abyssal Stew,#REF!,3,No,No
+Hypnotic Eye,#REF!,Horrifying Mush,#REF!,,,Abyssal Stew,#REF!,4,Yes,No
+Horrifying Mush,#REF!,Horrifying Mush,#REF!,,,Abyssal Stew,#REF!,5,Yes,No
+Horrifying Mush,#REF!,Processed Meat,#REF!,,,Abyssal Stew,#REF!,5,Yes,No
+Horrifying Mush,#REF!,Smoked Meat,#REF!,,,Abyssal Stew,#REF!,5,Yes,No
+Horrifying Mush,#REF!,Meaty Chunks,#REF!,,,Abyssal Stew,#REF!,4,Yes,No
+Horrifying Mush,#REF!,Offal Sac,#REF!,,,Abyssal Stew,#REF!,4,Yes,No
+Horrifying Mush,#REF!,Feline Liver,#REF!,,,Abyssal Stew,#REF!,4,Yes,No
+Horrifying Mush,#REF!,Meaty Wings,#REF!,,,Abyssal Stew,#REF!,4,Yes,No
+Horrifying Mush,#REF!,Proto Sausage,#REF!,,,Abyssal Stew,#REF!,4,Yes,No
+Horrifying Mush,#REF!,Diplo Chunks,#REF!,,,Abyssal Stew,#REF!,4,Yes,No
+Horrifying Mush,#REF!,Scaly Meat,#REF!,,,Abyssal Stew,#REF!,4,Yes,No
+Horrifying Mush,#REF!,Strider Sausage,#REF!,,,Abyssal Stew,#REF!,4,Yes,No
+Horrifying Mush,#REF!,Raw Steak,#REF!,,,Abyssal Stew,#REF!,4,Yes,No
+Horrifying Mush,#REF!,Steamed Vegetables,#REF!,,,Abyssal Stew,#REF!,5,Yes,No
+Horrifying Mush,#REF!,Impulse Beans,#REF!,,,Abyssal Stew,#REF!,4,Yes,No
+Horrifying Mush,#REF!,Solartillo,#REF!,,,Abyssal Stew,#REF!,5,Yes,No
+Horrifying Mush,#REF!,Jade Peas,#REF!,,,Abyssal Stew,#REF!,4,Yes,No
+Horrifying Mush,#REF!,Non-Toxic Mushrooms,#REF!,,,Abyssal Stew,#REF!,5,Yes,No
+Horrifying Mush,#REF!,Sievert Beans,#REF!,,,Abyssal Stew,#REF!,5,Yes,No
+Horrifying Mush,#REF!,Sweetroot,#REF!,,,Abyssal Stew,#REF!,4,Yes,No
+Horrifying Mush,#REF!,Pulpy Roots,#REF!,,,Abyssal Stew,#REF!,4,Yes,No
+Hypnotic Eye,#REF!,Processed Meat,#REF!,,,Abyssal Stew,#REF!,4,Yes,No
+Hypnotic Eye,#REF!,Smoked Meat,#REF!,,,Abyssal Stew,#REF!,4,Yes,No
+Hypnotic Eye,#REF!,Meaty Chunks,#REF!,,,Abyssal Stew,#REF!,3,No,No
+Hypnotic Eye,#REF!,Offal Sac,#REF!,,,Abyssal Stew,#REF!,3,No,No
+Hypnotic Eye,#REF!,Feline Liver,#REF!,,,Abyssal Stew,#REF!,3,No,No
+Hypnotic Eye,#REF!,Meaty Wings,#REF!,,,Abyssal Stew,#REF!,3,No,No
+Hypnotic Eye,#REF!,Proto Sausage,#REF!,,,Abyssal Stew,#REF!,3,No,No
+Hypnotic Eye,#REF!,Diplo Chunks,#REF!,,,Abyssal Stew,#REF!,3,No,No
+Hypnotic Eye,#REF!,Scaly Meat,#REF!,,,Abyssal Stew,#REF!,3,No,No
+Hypnotic Eye,#REF!,Strider Sausage,#REF!,,,Abyssal Stew,#REF!,3,No,No
+Hypnotic Eye,#REF!,Raw Steak,#REF!,,,Abyssal Stew,#REF!,3,No,No
+Hypnotic Eye,#REF!,Steamed Vegetables,#REF!,,,Abyssal Stew,#REF!,4,Yes,No
+Hypnotic Eye,#REF!,Impulse Beans,#REF!,,,Abyssal Stew,#REF!,3,No,No
+Hypnotic Eye,#REF!,Solartillo,#REF!,,,Abyssal Stew,#REF!,4,Yes,No
+Hypnotic Eye,#REF!,Jade Peas,#REF!,,,Abyssal Stew,#REF!,3,No,No
+Hypnotic Eye,#REF!,Non-Toxic Mushrooms,#REF!,,,Abyssal Stew,#REF!,4,Yes,No
+Hypnotic Eye,#REF!,Sievert Beans,#REF!,,,Abyssal Stew,#REF!,4,Yes,No
+Hypnotic Eye,#REF!,Sweetroot,#REF!,,,Abyssal Stew,#REF!,3,No,No
+Hypnotic Eye,#REF!,Pulpy Roots,#REF!,,,Abyssal Stew,#REF!,3,No,No
+Hypnotic Eye,#REF!,Frozen Tubers,#REF!,,,Iced Screams,#REF!,3,No,No
+Horrifying Mush,#REF!,Frozen Tubers,#REF!,,,Iced Screams,#REF!,4,Yes,No
+Hypnotic Eye,#REF!,Frost Crystal,#REF!,,,Iced Screams,#REF!,3,No,No
+Horrifying Mush,#REF!,Frost Crystal,#REF!,,,Iced Screams,#REF!,4,Yes,No
+Viscous Custard,#REF!,Frozen Tubers,#REF!,,,Ice Cream,#REF!,8,No,No
+Viscous Custard,#REF!,Frost Crystal,#REF!,,,Ice Cream,#REF!,8,No,Kind of
+Salty Custard,#REF!,Frozen Tubers,#REF!,,,Briney Rime,#REF!,8,No,No
+Salty Custard,#REF!,Frost Crystal,#REF!,,,Briney Rime,#REF!,8,No,Kind of
+Monstrous Custard,#REF!,Frozen Tubers,#REF!,,,Deathly-Cold Ice Cream,#REF!,8,No,No
+Monstrous Custard,#REF!,Frost Crystal,#REF!,,,Deathly-Cold Ice Cream,#REF!,8,No,No
+Stellar Custard,#REF!,Frozen Tubers,#REF!,,,Stellar Ice Cream,#REF!,9,No,No
+Stellar Custard,#REF!,Frost Crystal,#REF!,,,Stellar Ice Cream,#REF!,9,No,Kind of
+Viscous Custard,#REF!,Frozen Tubers,#REF!,Bittersweet Cocoa,#REF!,Chocolate Ice Cream,#REF!,10,No,No
+Viscous Custard,#REF!,Frost Crystal,#REF!,Bittersweet Cocoa,#REF!,Chocolate Ice Cream,#REF!,10,No,No
+Viscous Custard,#REF!,Frozen Tubers,#REF!,Crunchy Caramel,#REF!,Caramel Ice Cream,#REF!,11,No,No
+Viscous Custard,#REF!,Frost Crystal,#REF!,Crunchy Caramel,#REF!,Caramel Ice Cream,#REF!,11,No,Kind of
+Viscous Custard,#REF!,Frozen Tubers,#REF!,Cactus Jelly,#REF!,Fruity Ice Cream,#REF!,13,Yes,No
+Viscous Custard,#REF!,Frost Crystal,#REF!,Cactus Jelly,#REF!,Fruity Ice Cream,#REF!,13,Yes,Kind of
+Viscous Custard,#REF!,Frozen Tubers,#REF!,Furball Jelly,#REF!,Fruity Ice Cream,#REF!,12,Yes,No
+Viscous Custard,#REF!,Frost Crystal,#REF!,Furball Jelly,#REF!,Fruity Ice Cream,#REF!,12,Yes,Kind of
+Viscous Custard,#REF!,Frozen Tubers,#REF!,Cactus Nectar,#REF!,Fruity Ice Cream,#REF!,10,Yes,No
+Viscous Custard,#REF!,Frost Crystal,#REF!,Cactus Nectar,#REF!,Fruity Ice Cream,#REF!,10,Yes,Kind of
+Viscous Custard,#REF!,Frozen Tubers,#REF!,Leopard-Fruit,#REF!,Fruity Ice Cream,#REF!,9,No,No
+Viscous Custard,#REF!,Frost Crystal,#REF!,Leopard-Fruit,#REF!,Fruity Ice Cream,#REF!,9,No,Kind of
+Viscous Custard,#REF!,Frozen Tubers,#REF!,Sweetroot,#REF!,Fruity Ice Cream,#REF!,9,No,No
+Viscous Custard,#REF!,Frost Crystal,#REF!,Sweetroot,#REF!,Fruity Ice Cream,#REF!,9,No,No
+Viscous Custard,#REF!,Frozen Tubers,#REF!,Pilgrimberry,#REF!,Fruity Ice Cream,#REF!,10,Yes,No
+Viscous Custard,#REF!,Frost Crystal,#REF!,Pilgrimberry,#REF!,Fruity Ice Cream,#REF!,10,Yes,Kind of
+Viscous Custard,#REF!,Frozen Tubers,#REF!,Crab `Apple`,#REF!,`Apple` Ice Cream,#REF!,9,No,No
+Viscous Custard,#REF!,Frost Crystal,#REF!,Crab `Apple`,#REF!,`Apple` Ice Cream,#REF!,9,No,Kind of
+Viscous Custard,#REF!,Frozen Tubers,#REF!,Wriggling Jam,#REF!,`Apple` Ice Cream,#REF!,12,Yes,No
+Viscous Custard,#REF!,Frost Crystal,#REF!,Wriggling Jam,#REF!,`Apple` Ice Cream,#REF!,12,Yes,Kind of
+Viscous Custard,#REF!,Frozen Tubers,#REF!,Synthetic Honey,#REF!,Honey Ice Cream,#REF!,10,Yes,No
+Viscous Custard,#REF!,Frost Crystal,#REF!,Synthetic Honey,#REF!,Honey Ice Cream,#REF!,10,Yes,Kind of
+Viscous Custard,#REF!,Frozen Tubers,#REF!,Sticky Honey,#REF!,Honey Ice Cream,#REF!,9,No,No
+Viscous Custard,#REF!,Frost Crystal,#REF!,Sticky Honey,#REF!,Honey Ice Cream,#REF!,9,No,Kind of
+Viscous Custard,#REF!,Frozen Tubers,#REF!,Hexaberry,#REF!,Perpetual Ice Cream,#REF!,9,No,No
+Viscous Custard,#REF!,Frost Crystal,#REF!,Hexaberry,#REF!,Perpetual Ice Cream,#REF!,9,No,No
+Viscous Custard,#REF!,Frozen Tubers,#REF!,Anomalous Jam,#REF!,Perpetual Ice Cream,#REF!,12,Yes,No
+Viscous Custard,#REF!,Frost Crystal,#REF!,Anomalous Jam,#REF!,Perpetual Ice Cream,#REF!,12,Yes,No
+Viscous Custard,#REF!,Frozen Tubers,#REF!,Grahberry,#REF!,Vy'ice Cream,#REF!,9,No,No
+Viscous Custard,#REF!,Frost Crystal,#REF!,Grahberry,#REF!,Vy'ice Cream,#REF!,9,No,No
+Viscous Custard,#REF!,Frozen Tubers,#REF!,Grahj'am,#REF!,Vy'ice Cream,#REF!,12,Yes,No
+Viscous Custard,#REF!,Frost Crystal,#REF!,Grahj'am,#REF!,Vy'ice Cream,#REF!,12,Yes,No
+Viscous Custard,#REF!,Frozen Tubers,#REF!,Ever-burning Jam,#REF!,Spiced Ice,#REF!,12,Yes,No
+Viscous Custard,#REF!,Frost Crystal,#REF!,Ever-burning Jam,#REF!,Spiced Ice,#REF!,12,Yes,No
+Viscous Custard,#REF!,Frozen Tubers,#REF!,Fireberry,#REF!,Spiced Ice,#REF!,9,No,No
+Viscous Custard,#REF!,Frost Crystal,#REF!,Fireberry,#REF!,Spiced Ice,#REF!,9,No,No
+Proto-Batter,#REF!,Sticky Honey,#REF!,,,Most Curious Cake,#REF!,12,No,Kind of
+Proto-Batter,#REF!,Gooey Butter,#REF!,,,Most Curious Cake,#REF!,16,Yes,Kind of
+Proto-Batter,#REF!,Cream,#REF!,,,Cream Curiosity,#REF!,13,No,Kind of
+Proto-Batter,#REF!,Bittersweet Cocoa,#REF!,,,Chocolate Curiosity,#REF!,13,No,No
+Proto-Batter,#REF!,Crunchy Caramel,#REF!,,,Caramel Curiosity,#REF!,14,No,Kind of
+Proto-Batter,#REF!,Crab `Apple`,#REF!,,,`Apple` Curiosity,#REF!,12,No,Kind of
+Proto-Batter,#REF!,Wriggling Jam,#REF!,Cream,#REF!,`Apple` Curiosity,#REF!,17,Yes,Kind of
+Proto-Batter,#REF!,Cactus Nectar,#REF!,,,Prickly Curiosity,#REF!,13,No,Kind of
+Proto-Batter,#REF!,Cactus Jelly,#REF!,Cream,#REF!,Prickly Curiosity,#REF!,18,Yes,Kind of
+Proto-Batter,#REF!,Grahj'am,#REF!,Cream,#REF!,Jam Curiosity,#REF!,17,No,No
+Proto-Batter,#REF!,Furball Jelly,#REF!,Cream,#REF!,Jam Curiosity,#REF!,17,No,Kind of
+Proto-Batter,#REF!,Ever-burning Jam,#REF!,Cream,#REF!,Startling Fancy,#REF!,17,No,No
+Proto-Batter,#REF!,Anomalous Jam,#REF!,Cream,#REF!,Unsolvable Jam Turnover,#REF!,17,No,No
+Proto-Batter,#REF!,Viscous Custard,#REF!,,,Custard Curiosity,#REF!,17,No,Kind of
+Proto-Batter,#REF!,Salty Custard,#REF!,,,Salty Surprise,#REF!,17,No,Kind of
+Proto-Batter,#REF!,Stellar Custard,#REF!,,,Interstellar Curiosity,#REF!,18,No,Kind of
+"Thick, Sweet Batter",#REF!,Synthetic Honey,#REF!,,,Honey-Soaked Fancy,#REF!,12,No,Kind of
+"Thick, Sweet Batter",#REF!,Cream,#REF!,,,Sweet Cream Dreams,#REF!,12,No,Kind of
+"Thick, Sweet Batter",#REF!,Bittersweet Cocoa,#REF!,,,Gooey Chocolate Cake,#REF!,12,No,No
+"Thick, Sweet Batter",#REF!,Crab `Apple`,#REF!,,,Gooey Fruit Surprise,#REF!,11,No,Kind of
+"Thick, Sweet Batter",#REF!,Wriggling Jam,#REF!,Cream,#REF!,Gooey Fruit Surprise,#REF!,16,Yes,Kind of
+"Thick, Sweet Batter",#REF!,Cactus Nectar,#REF!,,,Honied Throat-Sticker,#REF!,12,No,Kind of
+"Thick, Sweet Batter",#REF!,Cactus Jelly,#REF!,Cream,#REF!,Honied Throat-Sticker,#REF!,17,Yes,Kind of
+"Thick, Sweet Batter",#REF!,Grahj'am,#REF!,Cream,#REF!,Jam Oozers,#REF!,16,No,No
+"Thick, Sweet Batter",#REF!,Furball Jelly,#REF!,Cream,#REF!,Jam Oozers,#REF!,16,No,Kind of
+"Thick, Sweet Batter",#REF!,Ever-burning Jam,#REF!,Cream,#REF!,Gooey Mouthburner,#REF!,16,No,No
+"Thick, Sweet Batter",#REF!,Anomalous Jam,#REF!,Cream,#REF!,Perpetual Honeycake,#REF!,16,No,No
+"Thick, Sweet Batter",#REF!,Viscous Custard,#REF!,,,Gooey Custard Fancy,#REF!,16,No,Kind of
+"Thick, Sweet Batter",#REF!,Salty Custard,#REF!,,,Salt-Laced Honey Cake,#REF!,16,No,Kind of
+"Thick, Sweet Batter",#REF!,Stellar Custard,#REF!,,,Starbirth Delight,#REF!,17,No,Kind of
+Wailing Batter,#REF!,Cream,#REF!,,,Doomed Cream Cake,#REF!,12,No,No
+Wailing Batter,#REF!,Bittersweet Cocoa,#REF!,,,Haunted Chocolate Dreams,#REF!,12,No,No
+Wailing Batter,#REF!,Crunchy Caramel,#REF!,,,Wailing Caramel Cake,#REF!,13,No,No
+Wailing Batter,#REF!,Crab `Apple`,#REF!,,,`Apple` Cake of Lost Souls,#REF!,11,No,No
+Wailing Batter,#REF!,Wriggling Jam,#REF!,Cream,#REF!,`Apple` Cake of Lost Souls,#REF!,16,Yes,No
+Wailing Batter,#REF!,Cactus Nectar,#REF!,,,Choking Monstroosity Cake,#REF!,12,No,No
+Wailing Batter,#REF!,Cactus Jelly,#REF!,Cream,#REF!,Choking Monstroosity Cake,#REF!,17,Yes,No
+Wailing Batter,#REF!,Grahj'am,#REF!,Cream,#REF!,Appalling Jam Sponge,#REF!,16,No,No
+Wailing Batter,#REF!,Furball Jelly,#REF!,Cream,#REF!,Appalling Jam Sponge,#REF!,16,No,No
+Wailing Batter,#REF!,Ever-burning Jam,#REF!,Cream,#REF!,Cake of Burning Dread,#REF!,16,No,No
+Wailing Batter,#REF!,Anomalous Jam,#REF!,Cream,#REF!,Cake of Glass,#REF!,16,No,No
+Extra-Fluffy Batter,#REF!,Synthetic Honey,#REF!,,,Honied Angel Cake,#REF!,11,No,Kind of
+Extra-Fluffy Batter,#REF!,Sticky Honey,#REF!,,,Gooey Honey Puff,#REF!,10,No,Kind of
+Extra-Fluffy Batter,#REF!,Gooey Butter,#REF!,,,Gooey Honey Puff,#REF!,14,Yes,Kind of
+Extra-Fluffy Batter,#REF!,Cream,#REF!,,,Extra-Fluffy Cream Cake,#REF!,11,No,Kind of
+Extra-Fluffy Batter,#REF!,Bittersweet Cocoa,#REF!,,,Chocolate Dream,#REF!,11,No,No
+Extra-Fluffy Batter,#REF!,Crunchy Caramel,#REF!,,,Fluffy Caramel Delight,#REF!,12,No,Kind of
+Extra-Fluffy Batter,#REF!,Crab `Apple`,#REF!,,,Angelic Fruitcake,#REF!,10,No,Kind of
+Extra-Fluffy Batter,#REF!,Wriggling Jam,#REF!,Cream,#REF!,Angelic Fruitcake,#REF!,15,Yes,Kind of
+Extra-Fluffy Batter,#REF!,Cactus Nectar,#REF!,,,Soft and Spiky Surprise,#REF!,11,No,Kind of
+Extra-Fluffy Batter,#REF!,Cactus Jelly,#REF!,Cream,#REF!,Soft and Spiky Surprise,#REF!,16,Yes,Kind of
+Extra-Fluffy Batter,#REF!,Grahj'am,#REF!,Cream,#REF!,Jam Fluffer,#REF!,15,No,No
+Extra-Fluffy Batter,#REF!,Furball Jelly,#REF!,Cream,#REF!,Jam Fluffer,#REF!,15,No,Kind of
+Extra-Fluffy Batter,#REF!,Ever-burning Jam,#REF!,Cream,#REF!,Burning Jam Fluffer,#REF!,15,No,No
+Extra-Fluffy Batter,#REF!,Anomalous Jam,#REF!,Cream,#REF!,Perpetual Jam Fluffer,#REF!,15,No,No
+Extra-Fluffy Batter,#REF!,Viscous Custard,#REF!,,,Soft Custard Fancy,#REF!,15,No,Kind of
+Extra-Fluffy Batter,#REF!,Salty Custard,#REF!,,,Soft Custard Fancy,#REF!,15,No,Kind of
+Extra-Fluffy Batter,#REF!,Monstrous Custard,#REF!,,,Soft Custard Fancy,#REF!,15,No,No
+Extra-Fluffy Batter,#REF!,Stellar Custard,#REF!,,,Soft Custard Fancy,#REF!,16,Yes,Kind of
+"Writhing, Roling Batter",#REF!,Synthetic Honey,#REF!,,,Tortured Honey Cake,#REF!,11,No,No
+"Writhing, Roling Batter",#REF!,Sticky Honey,#REF!,,,"Itching, Ceeping, Honey Sponge",#REF!,10,No,No
+"Writhing, Roling Batter",#REF!,Gooey Butter,#REF!,,,"Itching, Ceeping, Honey Sponge",#REF!,14,Yes,No
+"Writhing, Roling Batter",#REF!,Cream,#REF!,,,Unbound Cream Horn,#REF!,11,No,No
+"Writhing, Roling Batter",#REF!,Bittersweet Cocoa,#REF!,,,Volatile Chocolate Fancy,#REF!,11,No,No
+"Writhing, Roling Batter",#REF!,Crunchy Caramel,#REF!,,,Caramelised Nightmare,#REF!,12,No,No
+"Writhing, Roling Batter",#REF!,Crab `Apple`,#REF!,,,Cake of Sin,#REF!,10,No,No
+"Writhing, Roling Batter",#REF!,Wriggling Jam,#REF!,Cream,#REF!,Cake of Sin,#REF!,15,Yes,No
+"Writhing, Roling Batter",#REF!,Cactus Nectar,#REF!,,,Fluffy Throatripper,#REF!,11,No,No
+"Writhing, Roling Batter",#REF!,Cactus Jelly,#REF!,Cream,#REF!,Fluffy Throatripper,#REF!,16,Yes,No
+"Writhing, Roling Batter",#REF!,Grahj'am,#REF!,Cream,#REF!,Writhing Jam Puff,#REF!,15,No,No
+"Writhing, Roling Batter",#REF!,Furball Jelly,#REF!,Cream,#REF!,Writhing Jam Puff,#REF!,15,No,No
+"Writhing, Roling Batter",#REF!,Ever-burning Jam,#REF!,Cream,#REF!,Burning Jam Surprise,#REF!,15,No,No
+"Writhing, Roling Batter",#REF!,Anomalous Jam,#REF!,Cream,#REF!,Unbound Monstrosity,#REF!,15,No,No
+"Writhing, Roling Batter",#REF!,Viscous Custard,#REF!,,,Cake of the Lost,#REF!,15,No,No
+"Writhing, Roling Batter",#REF!,Salty Custard,#REF!,,,Cake of the Lost,#REF!,15,No,No
+"Writhing, Roling Batter",#REF!,Monstrous Custard,#REF!,,,Cake of the Lost,#REF!,15,No,No
+"Writhing, Roling Batter",#REF!,Stellar Custard,#REF!,,,Cake of the Lost,#REF!,16,Yes,No
+"Thick, Sweet Batter",#REF!,Monstrous Custard,#REF!,,,Gooey Screamer,#REF!,16,Yes,No
+Wailing Batter,#REF!,Sticky Honey,#REF!,,,Gooey Screamer,#REF!,11,No,No
+Wailing Batter,#REF!,Gooey Butter,#REF!,,,Gooey Screamer,#REF!,15,Yes,No
+Wailing Batter,#REF!,Synthetic Honey,#REF!,,,Monstrous Honey Cake,#REF!,12,No,No
+Proto-Batter,#REF!,Synthetic Honey,#REF!,,,Honied Proto-Cake,#REF!,13,No,Kind of
+WIld Yeast,#REF!,,,,,WIld Yeast,#REF!,3,Yes,Yes
