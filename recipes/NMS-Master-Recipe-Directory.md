@@ -1,7 +1,9 @@
-# NMS Wiki-Verified Master Recipe Directory (6000%+ Bonus)
+# NMS Master Recipe Directory (6000%+ Bonus)
 
 All recipes yield 6000%+ scanning unit payout bonuses for 10 minutes when processed in the Nutrient Processor.
-Wiki source: https://nomanssky.miraheze.org
+Recipes sourced from: [NMS Wiki](https://nomanssky.miraheze.org) and the Kronos All Recipes CSV.
+
+> ⚠️ **Nectar Sponge Cake** and **Primordial Sponge** are not present in the CSV — those recipes are sourced from the wiki only and may need in-game verification.
 
 ---
 
@@ -14,14 +16,15 @@ Wiki source: https://nomanssky.miraheze.org
 **Step 1 — Process Raw Materials:**
 - Heptaploid Wheat → Refined Flour
 - Faecium → Wild Yeast
-- Any Milk → Cream
-- Cream → Churned Butter
-- Hexaberry → Processed Sugar
+- Any Milk → Cream *(×2 batches needed)*
+- Cream → Churned Butter *(×2 needed)*
+- Any Berry/Nectar → Processed Sugar
 
 **Step 2 — Combine Sub-Components:**
 - Refined Flour + Wild Yeast → **Dough**
-- Dough + Churned Butter + Processed Sugar → **Lumpen Doughnut**
+- Churned Butter + Churned Butter → **Clarified Oil**
 - Hexaberry + Processed Sugar → **Anomalous Jam**
+- Clarified Oil + Dough + Processed Sugar → **Lumpen Doughnut**
 
 **Step 3 — Final Assembly:**
 - Lumpen Doughnut + Anomalous Jam → ✅ **Anomalous Doughnut**
@@ -33,30 +36,30 @@ Wiki source: https://nomanssky.miraheze.org
 **Step 1 — Process Raw Materials:**
 - Heptaploid Wheat → Refined Flour
 - Any Milk → Cream
-- Cream → Churned Butter
-- Any Berry/Cactus Nectar → Processed Sugar
-- Processed Sugar + Any Egg → **Delicate Meringue**
+- Any Berry/Nectar → Processed Sugar
 
 **Step 2 — Combine Sub-Components:**
-- Refined Flour + Any Egg + Delicate Meringue → **Extra-Fluffy Batter**
+- Processed Sugar + Any Egg → **Delicate Meringue**
+- Delicate Meringue + Refined Flour + Any Egg → **Extra-Fluffy Batter**
 
 **Step 3 — Final Assembly:**
 - Extra-Fluffy Batter + Cream → ✅ **Extra-Fluffy Cream Cake**
-*(Bone Cream can substitute for Cream)*
 
 ---
 
 ### [Nectar Sponge Cake](https://nomanssky.miraheze.org/wiki/Nectar_Sponge_Cake) — +6,440% Fauna
+*(Wiki-sourced — not in CSV)*
 
 **Step 1 — Process Raw Materials:**
 - Heptaploid Wheat → Refined Flour
 - Warm Proto-Milk → Proto-Cream
-- Proto-Cream → Sweetened Proto-Butter
+- Proto-Cream → Proto-Butter
+- Proto-Butter + Processed Sugar → Sweetened Proto-Butter
 - Cactus Nectar → Processed Sugar
 
 **Step 2 — Combine Sub-Components:**
-- Cactus Nectar + Processed Sugar → **Syrupy Nectar**
 - Sweetened Proto-Butter + Refined Flour + Any Egg → **Proto-Batter**
+- Cactus Nectar + Processed Sugar → **Syrupy Nectar**
 
 **Step 3 — Final Assembly:**
 - Proto-Batter + Syrupy Nectar → ✅ **Nectar Sponge Cake**
@@ -69,12 +72,14 @@ Wiki source: https://nomanssky.miraheze.org
 **Step 1 — Process Raw Materials:**
 - Heptaploid Wheat → Refined Flour
 - Warm Proto-Milk → Proto-Cream
-- Proto-Cream → Sweetened Proto-Butter
+- Proto-Cream → Proto-Butter
+- Proto-Butter + Processed Sugar → Sweetened Proto-Butter
 - Any Milk → Cream
+- Any Berry/Nectar → Processed Sugar
 
 **Step 2 — Combine Sub-Components:**
 - Sweetened Proto-Butter + Refined Flour + Any Egg → **Proto-Batter**
-- Larval Core + Cream → **Monstrous Custard**
+- Larval Core + Cream + Processed Sugar → **Monstrous Custard**
 
 **Step 3 — Final Assembly:**
 - Proto-Batter + Monstrous Custard → ✅ **Horrifying, Gooey Delight**
@@ -86,7 +91,8 @@ Wiki source: https://nomanssky.miraheze.org
 **Step 1 — Process Raw Materials:**
 - Heptaploid Wheat → Refined Flour
 - Warm Proto-Milk → Proto-Cream
-- Proto-Cream → Sweetened Proto-Butter
+- Proto-Cream → Proto-Butter
+- Proto-Butter + Processed Sugar → Sweetened Proto-Butter
 - Any Milk → Cream
 - Grahberry → Processed Sugar
 
@@ -96,7 +102,6 @@ Wiki source: https://nomanssky.miraheze.org
 
 **Step 3 — Final Assembly:**
 - Proto-Batter + Grahj'am + Cream → ✅ **Jam Curiosity**
-*(Bone Cream can substitute for Cream)*
 
 ---
 
@@ -105,7 +110,8 @@ Wiki source: https://nomanssky.miraheze.org
 **Step 1 — Process Raw Materials:**
 - Heptaploid Wheat → Refined Flour
 - Warm Proto-Milk → Proto-Cream
-- Proto-Cream → Sweetened Proto-Butter
+- Proto-Cream → Proto-Butter
+- Proto-Butter + Processed Sugar → Sweetened Proto-Butter
 - Any Milk → Cream
 - Fireberry → Processed Sugar
 
@@ -115,7 +121,6 @@ Wiki source: https://nomanssky.miraheze.org
 
 **Step 3 — Final Assembly:**
 - Proto-Batter + Ever-burning Jam + Cream → ✅ **Startling Fancy**
-*(Bone Cream can substitute for Cream)*
 
 ---
 
@@ -128,10 +133,10 @@ Wiki source: https://nomanssky.miraheze.org
 **Step 1 — Process Raw Materials:**
 - Heptaploid Wheat → Refined Flour
 - Any Berry/Nectar → Processed Sugar
-- Processed Sugar + Any Egg → **Delicate Meringue**
 
 **Step 2 — Combine Sub-Components:**
-- Refined Flour + Any Egg + Delicate Meringue → **Extra-Fluffy Batter**
+- Processed Sugar + Any Egg → **Delicate Meringue**
+- Delicate Meringue + Refined Flour + Any Egg → **Extra-Fluffy Batter**
 
 **Step 3 — Final Assembly:**
 - Extra-Fluffy Batter + Cactus Nectar → ✅ **Soft and Spiky Surprise**
@@ -143,14 +148,15 @@ Wiki source: https://nomanssky.miraheze.org
 **Step 1 — Process Raw Materials:**
 - Heptaploid Wheat → Refined Flour
 - Faecium → Wild Yeast
-- Any Milk → Cream
-- Cream → Churned Butter
+- Any Milk → Cream *(×2 batches needed)*
+- Cream → Churned Butter *(×2 needed)*
 - Any Berry/Nectar → Processed Sugar
 
 **Step 2 — Combine Sub-Components:**
 - Refined Flour + Wild Yeast → **Dough**
-- Dough + Churned Butter + Processed Sugar → **Lumpen Doughnut**
-- Larval Core + Processed Sugar → **Wriggling Jam**
+- Churned Butter + Churned Butter → **Clarified Oil**
+- Crab `Apple` + Processed Sugar → **Wriggling Jam**
+- Clarified Oil + Dough + Processed Sugar → **Lumpen Doughnut**
 
 **Step 3 — Final Assembly:**
 - Lumpen Doughnut + Wriggling Jam → ✅ **Wriggling Doughnut**
@@ -161,30 +167,32 @@ Wiki source: https://nomanssky.miraheze.org
 
 **Step 1 — Process Raw Materials:**
 - Heptaploid Wheat → Refined Flour
+- Warm Proto-Milk → Proto-Cream
+- Proto-Cream → Proto-Butter
+- Proto-Butter + Processed Sugar → Sweetened Proto-Butter
 - Any Milk → Cream
 - Grahberry → Processed Sugar
-- Processed Sugar + Any Egg → **Delicate Meringue**
 
 **Step 2 — Combine Sub-Components:**
-- Refined Flour + Any Egg + Delicate Meringue → **Extra-Fluffy Batter**
+- Sweetened Proto-Butter + Refined Flour + Larval Core → **Wailing Batter**
 - Grahberry + Processed Sugar → **Grahj'am**
 
 **Step 3 — Final Assembly:**
-- Extra-Fluffy Batter + Grahj'am + Cream → ✅ **Appalling Jam Sponge**
-*(Bone Cream can substitute for Cream)*
+- Wailing Batter + Grahj'am + Cream → ✅ **Appalling Jam Sponge**
 
 ---
 
 ### [Primordial Sponge](https://nomanssky.miraheze.org/wiki/Primordial_Sponge) — +6,553% Flora
+*(Wiki-sourced — not in CSV)*
 
 **Step 1 — Process Raw Materials:**
 - Heptaploid Wheat → Refined Flour
 - Any Berry/Nectar → Processed Sugar
-- Processed Sugar + Any Egg → **Delicate Meringue**
 - Pulpy Roots → Awful Mush
 
 **Step 2 — Combine Sub-Components:**
-- Refined Flour + Any Egg + Delicate Meringue → **Extra-Fluffy Batter**
+- Processed Sugar + Any Egg → **Delicate Meringue**
+- Delicate Meringue + Refined Flour + Any Egg → **Extra-Fluffy Batter**
 
 **Step 3 — Final Assembly:**
 - Extra-Fluffy Batter + Awful Mush → ✅ **Primordial Sponge**
@@ -197,14 +205,15 @@ Wiki source: https://nomanssky.miraheze.org
 - Heptaploid Wheat → Refined Flour
 - Any Milk → Cream
 - Any Berry/Nectar → Processed Sugar
-- Processed Sugar + Any Egg → **Delicate Meringue**
 
 **Step 2 — Combine Sub-Components:**
-- Refined Flour + Larval Core + Delicate Meringue → **Writhing, Roiling Batter**
-- Larval Core + Cream → **Monstrous Custard**
+- Processed Sugar + Any Egg → **Delicate Meringue**
+- Delicate Meringue + Refined Flour + Larval Core → **Writhing, Roiling Batter**
+- Any Egg + Cream + Processed Sugar → **Viscous Custard**
 
 **Step 3 — Final Assembly:**
-- Writhing, Roiling Batter + Monstrous Custard → ✅ **Cake of the Lost**
+- Writhing, Roiling Batter + Viscous Custard → ✅ **Cake of the Lost**
+*(Salty, Monstrous, or Stellar Custard also work)*
 
 ---
 
@@ -217,16 +226,14 @@ Wiki source: https://nomanssky.miraheze.org
 **Step 1 — Process Raw Materials:**
 - Heptaploid Wheat → Refined Flour
 - Any Berry/Nectar → Processed Sugar
-- Processed Sugar + Any Egg → **Delicate Meringue**
-- Fireberry → Processed Sugar (Fireberry)
 
 **Step 2 — Combine Sub-Components:**
-- Refined Flour + Larval Core + Delicate Meringue → **Writhing, Roiling Batter**
-- Fireberry + Processed Sugar → **Ever-burning Jam**
+- Processed Sugar + Any Egg → **Delicate Meringue**
+- Delicate Meringue + Refined Flour + Larval Core → **Writhing, Roiling Batter**
 
 **Step 3 — Final Assembly:**
-- Writhing, Roiling Batter + Ever-burning Jam → ✅ **Cake of Sin**
-*(Alternatively: Writhing, Roiling Batter + Crab 'Apple')*
+- Writhing, Roiling Batter + Crab `Apple` → ✅ **Cake of Sin**
+*(Alternatively: Writhing, Roiling Batter + Wriggling Jam + Cream)*
 
 ---
 
@@ -235,7 +242,8 @@ Wiki source: https://nomanssky.miraheze.org
 **Step 1 — Process Raw Materials:**
 - Heptaploid Wheat → Refined Flour
 - Warm Proto-Milk → Proto-Cream
-- Proto-Cream → Sweetened Proto-Butter
+- Proto-Cream → Proto-Butter
+- Proto-Butter + Processed Sugar → Sweetened Proto-Butter
 - Any Berry/Nectar → Processed Sugar
 
 **Step 2 — Combine Sub-Components:**
@@ -252,10 +260,10 @@ Wiki source: https://nomanssky.miraheze.org
 **Step 1 — Process Raw Materials:**
 - Heptaploid Wheat → Refined Flour
 - Any Berry/Nectar → Processed Sugar
-- Processed Sugar + Any Egg → **Delicate Meringue**
 
 **Step 2 — Combine Sub-Components:**
-- Refined Flour + Larval Core + Delicate Meringue → **Writhing, Roiling Batter**
+- Processed Sugar + Any Egg → **Delicate Meringue**
+- Delicate Meringue + Refined Flour + Larval Core → **Writhing, Roiling Batter**
 - Processed Sugar + Salt → **Crunchy Caramel**
 
 **Step 3 — Final Assembly:**
@@ -267,11 +275,13 @@ Wiki source: https://nomanssky.miraheze.org
 
 **Step 1 — Process Raw Materials:**
 - Heptaploid Wheat → Refined Flour
+- Warm Proto-Milk → Proto-Cream
+- Proto-Cream → Proto-Butter
+- Proto-Butter + Processed Sugar → Sweetened Proto-Butter
 - Any Berry/Nectar → Processed Sugar
-- Processed Sugar + Any Egg → **Delicate Meringue**
 
 **Step 2 — Combine Sub-Components:**
-- Refined Flour + Vile Pod + Delicate Meringue → **Wailing Batter**
+- Sweetened Proto-Butter + Refined Flour + Larval Core → **Wailing Batter**
 - Processed Sugar + Salt → **Crunchy Caramel**
 
 **Step 3 — Final Assembly:**
@@ -284,10 +294,13 @@ Wiki source: https://nomanssky.miraheze.org
 **Step 1 — Process Raw Materials:**
 - Heptaploid Wheat → Refined Flour
 - Any Milk → Cream
+- Cream → Churned Butter
+- Churned Butter + Sticky Honey → Gooey Butter
 - Any Berry/Nectar → Processed Sugar
 
 **Step 2 — Combine Sub-Components:**
-- Refined Flour + Any Egg + Cream + Processed Sugar → **Thick, Sweet Batter**
+- Gooey Butter + Refined Flour + Any Egg → **Thick, Sweet Batter**
+- Salt + Cream + Processed Sugar → **Salty Custard**
 
 **Step 3 — Final Assembly:**
-- Thick, Sweet Batter + Honey + Salt → ✅ **Salt-Laced Honey Cake**
+- Thick, Sweet Batter + Salty Custard → ✅ **Salt-Laced Honey Cake**
