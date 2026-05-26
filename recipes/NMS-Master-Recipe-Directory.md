@@ -284,12 +284,10 @@ Wiki source: https://nomanssky.miraheze.org
 **Step 1 — Process Raw Materials:**
 - Heptaploid Wheat → Refined Flour
 - Any Milk → Cream
-- Cream → Churned Butter
+- Any Berry/Nectar → Processed Sugar
 
 **Step 2 — Combine Sub-Components:**
-- Refined Flour + Any Egg + Churned Butter → **Thick, Sweet Batter**
-- Cream + Any Egg → Custard
-- Custard + Salt → **Salty Custard**
+- Refined Flour + Any Egg + Cream + Processed Sugar → **Thick, Sweet Batter**
 
 **Step 3 — Final Assembly:**
-- Thick, Sweet Batter + Salty Custard → ✅ **Salt-Laced Honey Cake**
+- Thick, Sweet Batter + Honey + Salt → ✅ **Salt-Laced Honey Cake**
